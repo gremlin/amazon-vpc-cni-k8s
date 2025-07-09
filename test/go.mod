@@ -9,7 +9,7 @@ require (
 	github.com/aws/amazon-vpc-resource-controller-k8s v1.0.7
 	github.com/aws/aws-sdk-go v1.40.6
 	github.com/containerd/containerd v1.6.1 // indirect
-	github.com/docker/distribution v2.8.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/onsi/ginkgo/v2 v2.3.1
 	github.com/onsi/gomega v1.22.0
 	github.com/pkg/errors v0.9.1
